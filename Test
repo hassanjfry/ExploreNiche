@@ -1,4 +1,11 @@
+
+# open two datafiles 
+# soil
 main_soil <- read.csv("/Users/sepidehgolshani/Desktop/Coding_ExNi/main_SOIL.csv")
+
+# plant
 main_plant <- read.csv("/Users/sepidehgolshani/Desktop/Coding_ExNi/main_PLANT.csv")
 
+# Merge the two files if there is an identifier. 
 
+# I just have placed some annotation around your code so to see if you can see the changes that I have made. (HJ)
