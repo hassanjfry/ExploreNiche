@@ -1,0 +1,7 @@
+##TEST FOR GIT
+
+
+read.csv("/Users/sepidehgolshani/Desktop/Coding_ExNi/main_SOIL.csv")
+main_plant <- read.csv("/Users/sepidehgolshani/Desktop/Coding_ExNi/main_PLANT.csv")
+ssss
+HHH
